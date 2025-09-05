@@ -20,7 +20,6 @@ import {
 import Link from "next/link";
 import { Button } from "@/components/ui/button";
 import { ThemeToggle } from "./ThemeToggle";
-import { LanguageToggle } from "./LanguageToggle";
 
 export function NavigationBar() {
   const [isScrolled, setIsScrolled] = useState(false);
@@ -174,9 +173,6 @@ export function NavigationBar() {
               <div className="hidden lg:block">
                 <ThemeToggle />
               </div>
-              <div className="hidden xl:block">
-                <LanguageToggle />
-              </div>
               <div className="w-px h-4 sm:h-6 bg-border hidden lg:block" />
               <Link href="/dashboard">
                 <Button
@@ -263,7 +259,6 @@ export function NavigationBar() {
                 {/* Mobile Theme/Language Toggles */}
                 <div className="flex items-center space-x-3 pt-2 border-t border-border/50">
                   <ThemeToggle />
-                  <LanguageToggle />
                 </div>
 
                 {/* Mobile Action Buttons */}
