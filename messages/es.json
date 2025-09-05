@@ -1,0 +1,263 @@
+{
+  "common": {
+    "company": "NexusHost",
+    "tagline": "Soluciones Premium de Alojamiento Web",
+    "loading": "Cargando...",
+    "error": "Ocurrió un error",
+    "tryAgain": "Intentar de Nuevo",
+    "learnMore": "Saber Más",
+    "getStarted": "Comenzar",
+    "contactUs": "Contáctanos",
+    "readMore": "Leer Más",
+    "viewAll": "Ver Todo",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "menu": "Menú",
+    "search": "Buscar",
+    "home": "Inicio",
+    "about": "Acerca de",
+    "hosting": "Alojamiento",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse",
+    "clientPortal": "Portal del Cliente"
+  },
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de Nosotros",
+    "hosting": "Alojamiento",
+    "sharedHosting": "Alojamiento Compartido",
+    "vpsHosting": "Alojamiento VPS",
+    "dedicatedServers": "Servidores Dedicados",
+    "cloudHosting": "Alojamiento en la Nube",
+    "wordpressHosting": "Alojamiento WordPress",
+    "contact": "Contacto",
+    "blog": "Blog",
+    "support": "Soporte",
+    "clientPortal": "Portal del Cliente",
+    "toggleTheme": "Cambiar tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema",
+    "language": "Idioma"
+  },
+  "hero": {
+    "title": "Soluciones Premium de Alojamiento Web",
+    "subtitle": "Servicios de alojamiento confiables, rápidos y seguros para tu sitio web. Experimenta 99.9% de tiempo activo con nuestra infraestructura de vanguardia.",
+    "cta": "Comenzar Hoy",
+    "learnMore": "Saber Más",
+    "features": {
+      "uptime": "99.9% Tiempo Activo",
+      "support": "Soporte 24/7",
+      "ssl": "Certificado SSL Gratis",
+      "backup": "Copias de Seguridad Diarias"
+    }
+  },
+  "services": {
+    "title": "Nuestros Servicios de Alojamiento",
+    "subtitle": "Elige entre nuestra gama de soluciones de alojamiento diseñadas para satisfacer tus necesidades específicas",
+    "shared": {
+      "title": "Alojamiento Compartido",
+      "description": "Perfecto para sitios web pequeños y blogs con rendimiento confiable y gestión fácil.",
+      "price": "Desde $3.99/mes"
+    },
+    "vps": {
+      "title": "Alojamiento VPS",
+      "description": "Recursos dedicados y control total para sitios web y aplicaciones en crecimiento.",
+      "price": "Desde $19.99/mes"
+    },
+    "dedicated": {
+      "title": "Servidores Dedicados",
+      "description": "Máximo rendimiento y control completo con recursos de servidor dedicados.",
+      "price": "Desde $99.99/mes"
+    },
+    "cloud": {
+      "title": "Alojamiento en la Nube",
+      "description": "Infraestructura de nube escalable con alta disponibilidad y rendimiento.",
+      "price": "Desde $9.99/mes"
+    }
+  },
+  "features": {
+    "title": "¿Por Qué Elegir NexusHost?",
+    "subtitle": "Proporcionamos características líderes en la industria para asegurar que tu sitio web tenga el mejor rendimiento",
+    "ssd": {
+      "title": "Almacenamiento SSD",
+      "description": "Almacenamiento SSD ultrarrápido para un rendimiento óptimo del sitio web y tiempos de carga rápidos."
+    },
+    "cdn": {
+      "title": "CDN Global",
+      "description": "Red de entrega de contenido mundial asegura tiempos de carga rápidos para todos tus visitantes."
+    },
+    "ssl": {
+      "title": "Certificados SSL Gratuitos",
+      "description": "Asegura tu sitio web con certificados SSL gratuitos incluidos en todos los planes de alojamiento."
+    },
+    "backup": {
+      "title": "Copias de Seguridad Diarias",
+      "description": "Las copias de seguridad automáticas diarias mantienen tus datos seguros y fácilmente recuperables."
+    },
+    "support": {
+      "title": "Soporte Experto 24/7",
+      "description": "Nuestros expertos técnicos están disponibles las 24 horas para asistirte."
+    },
+    "uptime": {
+      "title": "Garantía de 99.9% de Tiempo Activo",
+      "description": "Garantía de tiempo activo líder en la industria asegura que tu sitio web esté siempre accesible."
+    }
+  },
+  "testimonials": {
+    "title": "Lo Que Dicen Nuestros Clientes",
+    "subtitle": "No solo confíes en nuestra palabra - mira lo que nuestros clientes satisfechos tienen que decir sobre nuestros servicios"
+  },
+  "pricing": {
+    "title": "Elige Tu Plan Perfecto",
+    "subtitle": "Precios transparentes sin tarifas ocultas. Todos los planes incluyen nuestras características principales.",
+    "calculator": {
+      "title": "Calculadora de Precios de Alojamiento",
+      "subtitle": "Calcula la solución de alojamiento perfecta para tus necesidades"
+    }
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "subtitle": "¿Tienes preguntas? Estamos aquí para ayudar. Contacta a nuestro equipo para asistencia personalizada.",
+    "form": {
+      "name": "Tu Nombre",
+      "email": "Correo Electrónico",
+      "subject": "Asunto",
+      "message": "Mensaje",
+      "send": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Mensaje enviado exitosamente!",
+      "error": "Error al enviar el mensaje. Por favor intenta de nuevo."
+    },
+    "info": {
+      "phone": "Teléfono",
+      "email": "Correo Electrónico",
+      "address": "Dirección",
+      "hours": "Horario de Atención"
+    }
+  },
+  "footer": {
+    "description": "Proveedor líder de soluciones confiables de alojamiento web con soporte 24/7 y garantía de 99.9% de tiempo activo.",
+    "quickLinks": "Enlaces Rápidos",
+    "services": "Servicios",
+    "support": "Soporte",
+    "legal": "Legal",
+    "newsletter": {
+      "title": "Boletín",
+      "description": "Suscríbete a nuestro boletín para las últimas actualizaciones y ofertas.",
+      "placeholder": "Ingresa tu correo",
+      "subscribe": "Suscribirse",
+      "success": "¡Suscripción exitosa!",
+      "error": "Falló la suscripción. Por favor intenta de nuevo."
+    },
+    "rights": "© 2025 NexusHost. Todos los derechos reservados.",
+    "links": {
+      "privacy": "Política de Privacidad",
+      "terms": "Términos de Servicio",
+      "cookies": "Política de Cookies"
+    }
+  },
+  "about": {
+    "hero": {
+      "title": "Acerca de NexusHost",
+      "subtitle": "Liderando el futuro del alojamiento web con soluciones innovadoras y servicio excepcional"
+    },
+    "mission": {
+      "title": "Nuestra Misión",
+      "description": "Proporcionar soluciones de alojamiento web confiables, seguras y de alto rendimiento que empoderen a las empresas para tener éxito en línea."
+    },
+    "vision": {
+      "title": "Nuestra Visión",
+      "description": "Ser el proveedor de alojamiento web más confiable a nivel global, conocido por la innovación, confiabilidad y servicio al cliente excepcional."
+    },
+    "stats": {
+      "customers": "Clientes Satisfechos",
+      "uptime": "Tiempo Activo Promedio",
+      "support": "Respuesta de Soporte",
+      "experience": "Años de Experiencia"
+    }
+  },
+  "hosting": {
+    "hero": {
+      "title": "Soluciones de Alojamiento Web",
+      "subtitle": "Desde alojamiento compartido hasta servidores dedicados, tenemos la solución perfecta para tus necesidades"
+    },
+    "plans": {
+      "shared": {
+        "name": "Alojamiento Compartido",
+        "popular": "Más Popular",
+        "features": [
+          "10GB Almacenamiento SSD",
+          "Ancho de Banda Ilimitado",
+          "Certificado SSL Gratuito",
+          "Soporte 24/7",
+          "Panel de Control cPanel",
+          "Instalación WordPress con Un Clic"
+        ]
+      },
+      "vps": {
+        "name": "Alojamiento VPS",
+        "features": [
+          "50GB Almacenamiento SSD",
+          "4GB RAM",
+          "2 Núcleos de CPU",
+          "Ancho de Banda Ilimitado",
+          "Acceso Root",
+          "Certificado SSL Gratuito"
+        ]
+      },
+      "dedicated": {
+        "name": "Servidor Dedicado",
+        "features": [
+          "1TB Almacenamiento SSD",
+          "32GB RAM",
+          "8 Núcleos de CPU",
+          "Ancho de Banda Ilimitado",
+          "Acceso Root Completo",
+          "RAID por Hardware"
+        ]
+      }
+    },
+    "faq": {
+      "title": "Preguntas Frecuentes",
+      "questions": [
+        {
+          "question": "¿Qué está incluido en los planes de alojamiento?",
+          "answer": "Todos nuestros planes de alojamiento incluyen almacenamiento SSD, certificados SSL gratuitos, soporte 24/7 y una garantía de 99.9% de tiempo activo."
+        },
+        {
+          "question": "¿Puedo actualizar mi plan de alojamiento más tarde?",
+          "answer": "Sí, puedes actualizar fácilmente tu plan de alojamiento en cualquier momento a través de tu portal de cliente."
+        },
+        {
+          "question": "¿Ofrecen garantía de devolución de dinero?",
+          "answer": "Sí, ofrecemos una garantía de devolución de dinero de 30 días en todos los planes de alojamiento."
+        }
+      ]
+    }
+  },
+  "blog": {
+    "hero": {
+      "title": "Nuestro Blog",
+      "subtitle": "Mantente actualizado con las últimas noticias de alojamiento web, consejos e información de la industria"
+    },
+    "categories": {
+      "all": "Todas las Publicaciones",
+      "tutorials": "Tutoriales",
+      "news": "Noticias",
+      "tips": "Consejos y Trucos",
+      "security": "Seguridad"
+    },
+    "newsletter": {
+      "title": "Suscríbete a Nuestro Boletín",
+      "description": "Recibe los últimos consejos de alojamiento y noticias de la industria en tu bandeja de entrada."
+    }
+  },
+  "notFound": {
+    "title": "Página No Encontrada",
+    "description": "La página que buscas no existe o ha sido movida.",
+    "backHome": "Volver al Inicio"
+  }
+}
