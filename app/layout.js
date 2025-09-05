@@ -63,7 +63,6 @@ export default function RootLayout({ children }) {
           crossOrigin="anonymous"
         />
         <link rel="icon" href="/nexushost-icon.svg" type="image/svg+xml" />
-        <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <meta name="theme-color" content="#2563eb" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
